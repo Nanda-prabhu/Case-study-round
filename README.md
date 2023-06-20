@@ -1,6 +1,6 @@
 # Case Study Round
-> Part - 1
-
-> Part - 2
+> Part - 1 (Metrics & Calculations)
 <br>
-Proactive User Notification Feature
+
+> Part - 2 (Proactive User Notification Feature)
+<br>
